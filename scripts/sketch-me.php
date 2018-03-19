@@ -24,7 +24,7 @@
 					<li><a href="index.html">Home</a></li>
 					<li><a href="about.html">about</a></li>
 					<li><a href="artfolio.html">artworks</a></li>
-					<li><a href="sketch-me.php" class="active">sketch me</a></li>
+					<li><a href="sketch-me.html" class="active">sketch me</a></li>
 				</ul>
 			</nav>
 		</div>
