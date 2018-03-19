@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'HelveticaLTStdCondensed';
+    src: url('fonts/helvet14-webfont.eot');
+    src: url('fonts/helvet14-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helvet14-webfont.woff') format('woff'),
+         url('fonts/helvet14-webfont.ttf') format('truetype'),
+         url('fonts/helvet14-webfont.svg#HelveticaLTStdCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BlueCakeAutospaced';
+    src: url('fonts/bluecake-autospaced-webfont.eot');
+    src: url('fonts/bluecake-autospaced-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bluecake-autospaced-webfont.woff') format('woff'),
+         url('fonts/bluecake-autospaced-webfont.ttf') format('truetype'),
+         url('fonts/bluecake-autospaced-webfont.svg#BlueCakeAutospaced') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'HelveticaLTStdBoldCondensed';
+    src: url('fonts/helvetic-webfont.eot');
+    src: url('fonts/helvetic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/helvetic-webfont.woff') format('woff'),
+         url('fonts/helvetic-webfont.ttf') format('truetype'),
+         url('fonts/helvetic-webfont.svg#HelveticaLTStdBoldCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
